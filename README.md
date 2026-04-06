@@ -7,4 +7,4 @@ Created connections, join new tables, calculations to manipulate data and enable
 Used different types of customized visualization (bar chart, pie chart, donut chart, clustered bar chart, scatter chart, line chart, area chart, map, slicers, etc)
 
 # Tool Used
-<img width="250" height="141" alt="image" src="https://github.com/user-attachments/assets/83f3a72a-6603-4d7d-b2dd-eaa12bdd37b2" />
+<img width="299" height="168" alt="image" src="https://github.com/user-attachments/assets/43d44f53-96b4-45e0-82f8-f0a24d65c3ac" />
